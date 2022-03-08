@@ -32,7 +32,9 @@ export default function Nav() {
             </li>
           </ul>
         </div>
-        <button>Login</button>
+        <button className="NavLoginbtn">
+          <p>Login</p>
+        </button>
       </div>
     </div>
   );
