@@ -11,7 +11,9 @@ export default function Nav() {
         <div>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/" className="LinkStyle">
+                Home
+              </Link>
             </li>
             <li></li>
             <li></li>

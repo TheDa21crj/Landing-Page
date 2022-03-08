@@ -18,3 +18,8 @@ code {
     background-color: #181818;
     color: #ffffff;
 }
+
+.LinkStyle {
+    text-decoration: none;
+    color: inherit;
+}
