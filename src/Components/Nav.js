@@ -8,7 +8,7 @@ export default function Nav() {
     <div className="HeaderNav">
       <div className="NavmContentDiv">
         <img src={imgLogo} alt="" />
-        <div>
+        <div className="ListDiv">
           <ul>
             <li>
               <Link to="/" className="LinkStyle">
@@ -32,6 +32,7 @@ export default function Nav() {
             </li>
           </ul>
         </div>
+        <button>Login</button>
       </div>
     </div>
   );
