@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Layout(props) {
   return (
-    <div>
-      <main>{props.children}</main>
+    <div className="BodyDiv">
+      <main> {props.children} </main>
     </div>
   );
 }
