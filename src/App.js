@@ -1,10 +1,8 @@
-import AccessAlarmIcon from "@mui/icons-material/AccessAlarm";
-
+import Nav from "./Components/Nav";
 function App() {
   return (
-    <div>
-      <AccessAlarmIcon />
-      Hello, world!
+    <div className="BodyDiv">
+      <Nav />
     </div>
   );
 }
