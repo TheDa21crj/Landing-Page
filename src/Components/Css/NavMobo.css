@@ -11,9 +11,26 @@
     height: 26.5px;
 }
 
-.ham1 {
-    width: 3px;
+.ham1,
+.ham2,
+.ham3 {
+    float: right;
+    height: 3px;
     background-color: white;
+}
+
+.ham1 {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.ham2 {
+    width: 75%;
+    margin-bottom: 5px;
+}
+
+.ham3 {
+    width: 50%;
 }
 
 @media only screen and (max-width: 800px) {
