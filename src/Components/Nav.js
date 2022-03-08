@@ -15,9 +15,21 @@ export default function Nav() {
                 Home
               </Link>
             </li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>
+              <Link to="/" className="LinkStyle">
+                Product
+              </Link>
+            </li>
+            <li>
+              <Link to="/" className="LinkStyle">
+                About
+              </Link>
+            </li>
+            <li>
+              <Link to="/" className="LinkStyle">
+                Contact
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
