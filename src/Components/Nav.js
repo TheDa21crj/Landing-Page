@@ -4,7 +4,7 @@ import "./Css/Nav.css";
 export default function Nav() {
   return (
     <div className="HeaderNav">
-      <div>Logo ...</div>
+      <div className="NavmContentDiv">Logo ...</div>
     </div>
   );
 }
