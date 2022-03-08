@@ -1,9 +1,16 @@
-import Nav from "./Components/Nav";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Home from "./Pages/Home";
+import Error from "./Pages/Error";
+import Layout from "./Pages/Layout";
+
 function App() {
   return (
-    <div className="BodyDiv">
-      <Nav />
-    </div>
+    <Layout>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="*" element={<Error />} />
+      </Routes>
+    </Layout>
   );
 }
 
