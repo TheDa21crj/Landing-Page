@@ -55,6 +55,7 @@ export default function Features() {
                 calculate useful insights
               </p>
             </div>
+            \
           </div>
         </div>
       </div>
