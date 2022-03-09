@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <Nav />
       <NavMobo />
-      Home{" "}
+      Home
     </div>
   );
 }
