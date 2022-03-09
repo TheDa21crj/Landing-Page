@@ -7,7 +7,10 @@ export default function Features() {
       <h1>Features</h1>
       <div>
         <div>
-          <p></p>
+          <p>
+            Most calendars are designed for teams. Slate is designed for
+            freelancers who want a simple way to plan their schedule.
+          </p>
         </div>
       </div>
     </div>
