@@ -30,7 +30,7 @@
     flex-direction: row;
     justify-content: space-evenly;
     /* background-color: blue; */
-    width: 40%;
+    width: 500px;
 }
 
 .TryForFree,
@@ -57,4 +57,16 @@
     border-style: solid;
     border-color: #ffffff;
     border-width: 1px;
+}
+
+@media only screen and (max-width: 500px) {
+    .BtnDiv {
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .TryForFree {
+        margin-bottom: 21px;
+    }
 }
