@@ -2,6 +2,7 @@ import React from "react";
 import "./Css/Features.css";
 import LocalDiningIcon from "@mui/icons-material/LocalDining";
 import TagFacesIcon from "@mui/icons-material/TagFaces";
+import AllInclusiveIcon from "@mui/icons-material/AllInclusive";
 import img0 from "./../Img/Frame19.png";
 
 export default function Features() {
