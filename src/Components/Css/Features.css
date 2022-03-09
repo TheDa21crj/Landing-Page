@@ -9,3 +9,34 @@
     letter-spacing: 0.2px;
     margin-bottom: 27px;
 }
+
+.featuresSubHeadingDiv {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.FeaturesPTagDiv {
+    max-width: 602px;
+    margin-bottom: 80px;
+}
+
+.FeatureDetailsDiv {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.FeatureScreenImgTag {
+    max-width: 500px;
+}
+
+.FeatureRightDiv {
+    background-color: red;
+    max-width: 310px;
+}
