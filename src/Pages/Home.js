@@ -3,6 +3,7 @@ import Nav from "./../Components/Nav";
 import NavMobo from "./../Components/NavMobo";
 import Header from "./../Components/Header";
 import Screens from "./../Components/Screens";
+import Features from "./../Components/Features";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <NavMobo />
       <Header />
       <Screens />
+      <Features />
       Home
     </div>
   );
