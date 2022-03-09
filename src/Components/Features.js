@@ -14,6 +14,7 @@ export default function Features() {
             freelancers who want a simple way to plan their schedule.
           </p>
         </div>
+
         <div className="FeatureDetailsDiv">
           <div>
             <img src={img0} alt="" className="FeatureScreenImgTag" />
