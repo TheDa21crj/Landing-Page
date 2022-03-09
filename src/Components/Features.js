@@ -18,6 +18,7 @@ export default function Features() {
           <div>
             <img src={img0} alt="" className="FeatureScreenImgTag" />
           </div>
+
           <div className="FeatureRightDiv">
             <div>
               <div className="FeatureRowHeadDiv">
