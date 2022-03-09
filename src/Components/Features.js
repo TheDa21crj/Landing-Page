@@ -20,7 +20,7 @@ export default function Features() {
           </div>
           <div className="FeatureRightDiv">
             <div>
-              <div>
+              <div className="FeatureRowHeadDiv">
                 <span>
                   <LocalDiningIcon />
                 </span>
@@ -31,8 +31,30 @@ export default function Features() {
                 calculate useful insights
               </p>
             </div>
-            <div>lorem</div>
-            <div>lorem</div>
+            <div className="FeatureRowDiv">
+              <div className="FeatureRowHeadDiv">
+                <span>
+                  <LocalDiningIcon />
+                </span>
+                <span>A single source of truth</span>
+              </div>
+              <p>
+                When you add work to your Slate calendar we automatically
+                calculate useful insights
+              </p>
+            </div>
+            <div className="FeatureRowDiv">
+              <div className="FeatureRowHeadDiv">
+                <span>
+                  <LocalDiningIcon />
+                </span>
+                <span>A single source of truth</span>
+              </div>
+              <p>
+                When you add work to your Slate calendar we automatically
+                calculate useful insights
+              </p>
+            </div>
           </div>
         </div>
       </div>

@@ -37,6 +37,18 @@
 }
 
 .FeatureRightDiv {
-    background-color: red;
+    padding: 20px;
+    /* background-color: red; */
     max-width: 310px;
+}
+
+.FeatureRowDiv {
+    margin-top: 35px;
+}
+
+.FeatureRowHeadDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
 }
