@@ -24,6 +24,7 @@ export default function Features() {
                 <span>
                   <LocalDiningIcon />
                 </span>
+                <span>A single source of truth</span>
               </div>
             </div>
             <div>lorem</div>
