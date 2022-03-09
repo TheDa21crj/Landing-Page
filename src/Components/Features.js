@@ -23,7 +23,7 @@ export default function Features() {
             <div>
               <div className="FeatureRowHeadDiv">
                 <span>
-                  <LocalDiningIcon />
+                  <LocalDiningIcon className="FeatureIcon" />
                 </span>
                 <span>A single source of truth</span>
               </div>
@@ -35,7 +35,7 @@ export default function Features() {
             <div className="FeatureRowDiv">
               <div className="FeatureRowHeadDiv">
                 <span>
-                  <TagFacesIcon />
+                  <TagFacesIcon className="FeatureIcon" />
                 </span>
                 <span>A single source of truth</span>
               </div>
@@ -47,7 +47,7 @@ export default function Features() {
             <div className="FeatureRowDiv">
               <div className="FeatureRowHeadDiv">
                 <span>
-                  <LocalDiningIcon />
+                  <LocalDiningIcon className="FeatureIcon" />
                 </span>
                 <span>A single source of truth</span>
               </div>
