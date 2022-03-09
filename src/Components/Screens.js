@@ -4,7 +4,7 @@ import imgScreen from "./../Img/screens.png";
 
 export default function Screens() {
   return (
-    <div>
+    <div className="screensmDiv">
       <div>
         <img src={imgScreen} alt="" className="screensImg" />
       </div>
