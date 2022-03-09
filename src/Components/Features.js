@@ -18,9 +18,10 @@ export default function Features() {
             <img src={img0} alt="" className="FeatureScreenImgTag" />
           </div>
           <div className="FeatureRightDiv">
+            <div></div>
             <div>lorem</div>
             <div>lorem</div>
-            <div>lorem</div>
+          </div>
         </div>
       </div>
     </div>
