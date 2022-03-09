@@ -1,4 +1,4 @@
-    .HeaderMDiv {
+.HeaderMDiv {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
@@ -54,3 +54,7 @@
 }
 
 .LearnMore {
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+}
