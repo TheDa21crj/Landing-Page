@@ -1,5 +1,5 @@
 .HeaderMDiv {
-    margin-top: 35px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,4 +22,5 @@
 .HeaderPDiv {
     max-width: 500px;
     text-align: center;
+    margin-bottom: 85px;
 }
