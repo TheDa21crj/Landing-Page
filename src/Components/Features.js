@@ -1,6 +1,7 @@
 import React from "react";
 import "./Css/Features.css";
 import LocalDiningIcon from "@mui/icons-material/LocalDining";
+import TagFacesIcon from "@mui/icons-material/TagFaces";
 import img0 from "./../Img/Frame19.png";
 
 export default function Features() {
@@ -34,7 +35,7 @@ export default function Features() {
             <div className="FeatureRowDiv">
               <div className="FeatureRowHeadDiv">
                 <span>
-                  <LocalDiningIcon />
+                  <TagFacesIcon />
                 </span>
                 <span>A single source of truth</span>
               </div>
