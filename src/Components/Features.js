@@ -26,6 +26,10 @@ export default function Features() {
                 </span>
                 <span>A single source of truth</span>
               </div>
+              <p>
+                When you add work to your Slate calendar we automatically
+                calculate useful insights
+              </p>
             </div>
             <div>lorem</div>
             <div>lorem</div>
