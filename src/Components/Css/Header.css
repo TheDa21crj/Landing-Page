@@ -1,4 +1,4 @@
-.HeaderMDiv {
+    .HeaderMDiv {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
@@ -24,3 +24,33 @@
     text-align: center;
     margin-bottom: 85px;
 }
+
+.BtnDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* background-color: blue; */
+    width: 40%;
+}
+
+.TryForFree,
+.LearnMore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    /* background-color: red; */
+    padding: 10px 30px;
+    width: 150px;
+    height: 40px;
+    font-weight: 500;
+    font-size: 17px;
+    letter-spacing: 0.2px;
+}
+
+.TryForFree {
+    background-color: #4452fe;
+}
+
+.LearnMore {

@@ -13,6 +13,10 @@ export default function Header() {
           freelancers who want a simple way to plan their schedule.
         </p>
       </div>
+      <div className="BtnDiv">
+        <div className="TryForFree">Try for free</div>
+        <div className="LearnMore">Learn more</div>
+      </div>
     </div>
   );
 }
