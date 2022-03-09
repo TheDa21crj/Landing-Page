@@ -48,7 +48,7 @@ export default function Features() {
             <div className="FeatureRowDiv">
               <div className="FeatureRowHeadDiv">
                 <span>
-                  <LocalDiningIcon className="FeatureIcon" />
+                  <AllInclusiveIcon className="FeatureIcon" />
                 </span>
                 <span>A single source of truth</span>
               </div>
