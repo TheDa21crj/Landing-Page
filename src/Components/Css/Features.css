@@ -1,5 +1,6 @@
 .featuresmDiv {
     margin-top: 162px;
+    margin-bottom: 62px;
 }
 
 .featuresmDiv h1 {
@@ -38,7 +39,7 @@
 
 .FeatureRightDiv {
     padding: 20px;
-    max-width: 310px;
+    max-width: 300px;
 }
 
 .FeatureRowDiv {
@@ -54,4 +55,19 @@
 
 .FeatureIcon {
     color: #02e4c0;
+    margin-right: 12px;
+}
+
+.FeatureHeadSpan {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.1px;
+}
+
+.FeaturePTag {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
 }
