@@ -1,3 +1,8 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(./../../Graphik/GraphikMedium.otf);
+}
+
 .HeaderMDiv {
     margin-top: 50px;
     display: flex;
