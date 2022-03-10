@@ -15,6 +15,7 @@ export default function Contents() {
         <div className="ContentsRowDiv">
           <div className="ContentLefthtDiv">
             <p className="CardsDivPTag">Work</p>
+
             <p className="ContentCardsSubheading">
               Ever wondered if you're too reliant on a client for work? Slate
               helps you identify .
