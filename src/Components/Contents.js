@@ -4,7 +4,7 @@ import "./Css/Contents.css";
 export default function Contents() {
   return (
     <div className="ContentsMDiv">
-      <p>Contents</p>
+      <p className="ContentsHeadPTag">Contents</p>
     </div>
   );
 }

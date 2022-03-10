@@ -1,3 +1,10 @@
 .ContentsMDiv {
     margin-top: 221.5px;
 }
+
+.ContentsHeadPTag {
+    font-size: 52px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
