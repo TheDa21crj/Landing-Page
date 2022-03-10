@@ -16,22 +16,26 @@ export default function Contents() {
         </div>
         <div className="ContentsRowDiv">
           <div className="ContentLefthtDiv">
-            <p className="CardsDivPTag">Work</p>
-            <p className="ContentCardsSubheading">
-              Ever wondered if you're too reliant on a client for work? Slate
-              helps you identify .
-            </p>
-            <button className="SignUp">Sign Up</button>
-            <img src={imgMac} alt="" />
+            <div className="ContentInsideLeftDiv">
+              <p className="CardsDivPTag">Work</p>
+              <p className="ContentCardsSubheading">
+                Ever wondered if you're too reliant on a client for work? Slate
+                helps you identify .
+              </p>
+              <button className="SignUp">Sign Up</button>
+              <img src={imgMac} alt="" />
+            </div>
           </div>
           <div className="ContentRightDiv">
-            <p className="CardsDivPTag">Design with real data</p>
-            <p className="ContentCardsSubheading">
-              Ever wondered if you're too reliant on a client for work? Slate
-              helps you identify.
-            </p>
-            <button className="ContentTryForFree">Try For free</button>
-            <img src={imgBoard} alt="" />
+            <div className="ContentInsideRightDiv">
+              <p className="CardsDivPTag">Design with real data</p>
+              <p className="ContentCardsSubheading">
+                Ever wondered if you're too reliant on a client for work? Slate
+                helps you identify.
+              </p>
+              <button className="ContentTryForFree">Try For free</button>
+              <img src={imgBoard} alt="" />
+            </div>
           </div>
         </div>
       </div>
