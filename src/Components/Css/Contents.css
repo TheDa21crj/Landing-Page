@@ -24,3 +24,10 @@
     font-weight: 400;
     letter-spacing: 0.2px;
 }
+
+.ContentsRowDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
