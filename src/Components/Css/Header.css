@@ -37,6 +37,7 @@
 }
 
 .HeaderPDiv p {
+    line-height: 30px;
     font-family: GraphikRegular;
 }
 
