@@ -23,7 +23,7 @@ export default function Contents() {
                 helps you identify .
               </p>
               <button className="SignUp">Sign Up</button>
-              <img src={imgMac} alt="" />
+              <img src={imgMac} alt="" className="ContentCardImg" />
             </div>
           </div>
           <div className="ContentRightDiv">
@@ -36,7 +36,7 @@ export default function Contents() {
                 helps you identify.
               </p>
               <button className="ContentTryForFree">Try For free</button>
-              <img src={imgBoard} alt="" />
+              <img src={imgBoard} alt="" className="ContentCardImg" />
             </div>
           </div>
         </div>
