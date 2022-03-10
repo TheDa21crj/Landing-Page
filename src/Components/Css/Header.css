@@ -18,6 +18,7 @@
 }
 
 .HeaderH1Div h1 {
+    font-family: myFirstFont;
     font-size: 80px;
     font-weight: 500;
     letter-spacing: 0.2px;
