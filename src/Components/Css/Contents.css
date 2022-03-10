@@ -8,3 +8,10 @@
     letter-spacing: 0.2px;
     text-align: center;
 }
+
+.ContentsContentDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
