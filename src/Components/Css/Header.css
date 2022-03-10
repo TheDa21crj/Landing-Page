@@ -51,6 +51,7 @@
 
 .TryForFree,
 .LearnMore {
+    font-family: GraphikMedium;
     display: flex;
     justify-content: center;
     align-items: center;
