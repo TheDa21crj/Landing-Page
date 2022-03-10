@@ -36,6 +36,10 @@
     margin-bottom: 85px;
 }
 
+.HeaderPDiv p {
+    font-family: GraphikRegular;
+}
+
 .BtnDiv {
     display: flex;
     flex-direction: row;
