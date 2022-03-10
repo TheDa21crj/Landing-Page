@@ -6,7 +6,12 @@ export default function Gallery() {
     <div>
       <p className="GalleryPTitle">Gallery</p>
       <div className="GalleryContentDiv">
-        <div className="GalleryContentNDiv">hello</div>
+        <div className="GalleryContentNDiv">
+          <p className="GalleryWeFocus">
+            We focus on ergonomics and meeting you where you work. It's only a
+            keystroke away.
+          </p>
+        </div>
       </div>
     </div>
   );
