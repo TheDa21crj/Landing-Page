@@ -32,6 +32,10 @@
     margin-bottom: 80px;
 }
 
+.FeaturesPTagDiv p {
+    font-family: GraphikRegular;
+}
+
 .FeatureDetailsDiv {
     display: flex;
     flex-direction: row;
