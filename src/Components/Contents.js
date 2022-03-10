@@ -12,7 +12,7 @@ export default function Contents() {
             keystroke away.
           </p>
         </div>
-        <div>
+        <div className="ContentsRowDiv">
           <div>hello</div>
           <div>world</div>
         </div>
