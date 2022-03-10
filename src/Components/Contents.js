@@ -14,14 +14,10 @@ export default function Contents() {
         </div>
         <div className="ContentsRowDiv">
           <div className="ContentLefthtDiv">
-            {/* <div> */}
             <p className="CardsDivPTag">Work</p>
-            {/* </div> */}
           </div>
           <div className="ContentRightDiv">
-            {/* <div> */}
             <p className="CardsDivPTag">Design with real data</p>
-            {/* </div> */}
           </div>
         </div>
       </div>
