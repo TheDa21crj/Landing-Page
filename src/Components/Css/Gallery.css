@@ -13,7 +13,8 @@
     margin-bottom: 20px;
 }
 
-.GalleryContentDiv {
+.GalleryContentDiv,
+.GalleryContentNDiv {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,10 +23,14 @@
 
 .GalleryContentNDiv {
     width: 70%;
-    text-align: center;
 }
 
 .GalleryWeFocus {
     font-family: GraphikRegular;
     font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    max-width: 591px;
+    text-align: center;
 }
