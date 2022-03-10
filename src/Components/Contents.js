@@ -13,8 +13,8 @@ export default function Contents() {
           </p>
         </div>
         <div>
-          <div></div>
-          <div></div>
+          <div>hello</div>
+          <div>world</div>
         </div>
       </div>
     </div>
