@@ -1,3 +1,8 @@
+@font-face {
+    font-family: GraphikRegular;
+    src: url(./../../Graphik/GraphikRegular.otf);
+}
+
 .ContentsMDiv {
     margin-top: 221.5px;
 }
