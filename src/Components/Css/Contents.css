@@ -59,5 +59,7 @@
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0.2px;
+    text-align: center;
     color: #5c5c5c;
+    max-width: 268px;
 }
