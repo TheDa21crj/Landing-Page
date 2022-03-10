@@ -19,6 +19,7 @@ export default function Contents() {
               Ever wondered if you're too reliant on a client for work? Slate
               helps you identify .
             </p>
+            <button>SignUp</button>
           </div>
           <div className="ContentRightDiv">
             <p className="CardsDivPTag">Design with real data</p>
@@ -26,6 +27,7 @@ export default function Contents() {
               Ever wondered if you're too reliant on a client for work? Slate
               helps you identify .
             </p>
+            <button>Try For free</button>
           </div>
         </div>
       </div>
