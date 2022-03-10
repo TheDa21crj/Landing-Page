@@ -25,7 +25,7 @@ export default function Contents() {
             <p className="CardsDivPTag">Design with real data</p>
             <p className="ContentCardsSubheading">
               Ever wondered if you're too reliant on a client for work? Slate
-              helps you identify .
+              helps you identify.
             </p>
             <button>Try For free</button>
           </div>
