@@ -13,8 +13,12 @@ export default function Contents() {
           </p>
         </div>
         <div className="ContentsRowDiv">
-          <div className="ContentLefthtDiv">hello</div>
-          <div className="ContentRightDiv">world</div>
+          <div className="ContentLefthtDiv">
+            <p className="CardsDivPTag">Work</p>
+          </div>
+          <div className="ContentRightDiv">
+            <p className="CardsDivPTag">Design with real data</p>
+          </div>
         </div>
       </div>
     </div>
