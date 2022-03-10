@@ -3,6 +3,11 @@
     src: url(./../../Graphik/GraphikMedium.otf);
 }
 
+@font-face {
+    font-family: GraphikRegular;
+    src: url(./../../Graphik/GraphikRegular.otf);
+}
+
 .HeaderMDiv {
     margin-top: 50px;
     display: flex;
