@@ -10,7 +10,7 @@ import Card12 from "./../Img/Card12.png";
 
 export default function Gallery() {
   return (
-    <div>
+    <div className="GallerymDiv">
       <p className="GalleryPTitle">Gallery</p>
       <div className="GalleryContentDiv">
         <div className="GalleryContentNDiv">

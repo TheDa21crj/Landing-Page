@@ -3,6 +3,10 @@
     src: url(./../../Graphik/GraphikRegular.otf);
 }
 
+.GallerymDiv {
+    margin-bottom: 210px;
+}
+
 .GalleryPTitle {
     font-family: GraphikRegular;
     font-weight: 400;
