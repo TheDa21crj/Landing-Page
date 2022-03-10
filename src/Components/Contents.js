@@ -1,5 +1,7 @@
 import React from "react";
 import "./Css/Contents.css";
+import imgMac from "./../Img/Macbook Pro.png";
+import imgBoard from "./../Img/Boards Notifications.png";
 
 export default function Contents() {
   return (
