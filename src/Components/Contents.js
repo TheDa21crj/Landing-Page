@@ -12,7 +12,10 @@ export default function Contents() {
             keystroke away.
           </p>
         </div>
-        <div></div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
       </div>
     </div>
   );
