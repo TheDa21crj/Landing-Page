@@ -22,6 +22,7 @@ export default function Contents() {
               helps you identify .
             </p>
             <button>SignUp</button>
+            <img src={imgMac} alt="" />
           </div>
           <div className="ContentRightDiv">
             <p className="CardsDivPTag">Design with real data</p>
@@ -30,6 +31,7 @@ export default function Contents() {
               helps you identify.
             </p>
             <button>Try For free</button>
+            <img src={imgBoard} alt="" />
           </div>
         </div>
       </div>
