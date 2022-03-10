@@ -36,7 +36,7 @@
 .ContentLefthtDiv,
 .ContentRightDiv {
     background-color: white;
-    width: 48%;
+    width: 37%;
     color: black;
     text-align: center;
     box-shadow: 0px 4px 31px #00000026;
@@ -45,6 +45,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 40px;
 }
 
 .CardsDivPTag {
