@@ -18,5 +18,9 @@
 
 .ContentsWefocusPTag {
     margin: 20px 0px 44px 0px;
+    max-width: 555px;
     text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
 }
