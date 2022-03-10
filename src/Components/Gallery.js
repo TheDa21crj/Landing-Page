@@ -11,6 +11,10 @@ export default function Gallery() {
             We focus on ergonomics and meeting you where you work. It's only a
             keystroke away.
           </p>
+          <div>
+            <div></div>
+            <div></div>
+          </div>
         </div>
       </div>
     </div>
