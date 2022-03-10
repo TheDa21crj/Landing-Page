@@ -82,6 +82,14 @@
     max-width: 268px;
 }
 
+.TryForFree {
+    margin-top: 40px;
+}
+
+.SignUp {
+    margin-top: 67px;
+}
+
 .SignUp,
 .TryForFree {
     background-color: #4452fe;
