@@ -28,7 +28,9 @@ export default function Contents() {
           </div>
           <div className="ContentRightDiv">
             <div className="ContentInsideRightDiv">
-              <p className="CardsDivPTag">Design with real data</p>
+              <p className="CardsDivPTag" id="Designwith">
+                Design with real data
+              </p>
               <p className="ContentCardsSubheading">
                 Ever wondered if you're too reliant on a client for work? Slate
                 helps you identify.

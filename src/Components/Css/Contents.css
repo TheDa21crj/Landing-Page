@@ -73,6 +73,15 @@
     margin: 40px;
 }
 
+.ContentInsideRightDiv {
+    margin: 40px;
+}
+
+
+/* #Designwith {
+    padding-top: 40px;
+} */
+
 .CardsDivPTag {
     font-family: GraphikMedium;
     font-size: 20px;
@@ -101,10 +110,10 @@
 }
 
 .SignUp {
-    margin-top: 67px;
+    margin-top: 125px;
     margin-bottom: 57px;
     width: 157px;
-    padding: 8px 46px;
+    padding: 13.5px 46px;
 }
 
 .SignUp,
