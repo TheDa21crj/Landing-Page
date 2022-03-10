@@ -84,16 +84,25 @@
 
 .TryForFree {
     margin-top: 40px;
+    width: 190px;
+    padding: 13.5px 46px;
 }
 
 .SignUp {
     margin-top: 67px;
+    width: 157px;
+    padding: 8px 46px;
 }
 
 .SignUp,
 .TryForFree {
+    font-family: GraphikMedium;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    font-weight: 500;
+    text-transform: capitalize;
     background-color: #4452fe;
     color: #ffffff;
     border-style: none;
-    padding: 20px 36px;
 }
