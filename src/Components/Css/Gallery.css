@@ -6,5 +6,8 @@
 .GalleryPTitle {
     font-family: GraphikRegular;
     font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    letter-spacing: 0.2px;
     text-align: center;
 }
