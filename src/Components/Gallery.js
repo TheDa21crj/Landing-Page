@@ -12,8 +12,17 @@ export default function Gallery() {
             keystroke away.
           </p>
           <div>
-            <div></div>
-            <div></div>
+            <div>
+              <img src="" alt="" />
+              <img src="" alt="" />
+              <img src="" alt="" />
+              <img src="" alt="" />
+            </div>
+            <div>
+              <img src="" alt="" />
+              <img src="" alt="" />
+              <img src="" alt="" />
+            </div>
           </div>
         </div>
       </div>
