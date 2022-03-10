@@ -21,7 +21,7 @@ export default function Contents() {
               Ever wondered if you're too reliant on a client for work? Slate
               helps you identify .
             </p>
-            <button>SignUp</button>
+            <button className="SignUp">SignUp</button>
             <img src={imgMac} alt="" />
           </div>
           <div className="ContentRightDiv">
