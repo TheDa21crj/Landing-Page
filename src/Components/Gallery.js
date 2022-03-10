@@ -1,5 +1,12 @@
 import React from "react";
 import "./Css/Gallery.css";
+import Card00 from "./../Img/Card00.png";
+import Card01 from "./../Img/Card01.png";
+import Card02 from "./../Img/Card02.png";
+import Card03 from "./../Img/Card03.png";
+import Card10 from "./../Img/Card10.png";
+import Card11 from "./../Img/Card11.png";
+import Card12 from "./../Img/Card12.png";
 
 export default function Gallery() {
   return (
