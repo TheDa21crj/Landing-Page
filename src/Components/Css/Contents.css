@@ -110,7 +110,7 @@
 }
 
 .SignUp {
-    margin-top: 125px;
+    margin-top: 78px;
     margin-bottom: 57px;
     width: 157px;
     padding: 13.5px 46px;
@@ -127,4 +127,8 @@
     background-color: #4452fe;
     color: #ffffff;
     border-style: none;
+}
+
+.ContentCardImg {
+    width: 100%;
 }
