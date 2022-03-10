@@ -20,15 +20,15 @@ export default function Gallery() {
           </p>
           <div>
             <div>
-              <img src="" alt="" />
-              <img src="" alt="" />
-              <img src="" alt="" />
-              <img src="" alt="" />
+              <img src={Card00} alt="" />
+              <img src={Card01} alt="" />
+              <img src={Card02} alt="" />
+              <img src={Card03} alt="" />
             </div>
             <div>
-              <img src="" alt="" />
-              <img src="" alt="" />
-              <img src="" alt="" />
+              <img src={Card10} alt="" />
+              <img src={Card11} alt="" />
+              <img src={Card12} alt="" />
             </div>
           </div>
           <button>See More</button>
