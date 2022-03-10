@@ -15,7 +15,10 @@ export default function Contents() {
         <div className="ContentsRowDiv">
           <div className="ContentLefthtDiv">
             <p className="CardsDivPTag">Work</p>
-            <p className="ContentCardsSubheading">sub</p>
+            <p className="ContentCardsSubheading">
+              Ever wondered if you're too reliant on a client for work? Slate
+              helps you identify .
+            </p>
           </div>
           <div className="ContentRightDiv">
             <p className="CardsDivPTag">Design with real data</p>
