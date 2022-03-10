@@ -5,8 +5,8 @@ export default function Gallery() {
   return (
     <div>
       <p className="GalleryPTitle">Gallery</p>
-      <div>
-        <div></div>
+      <div className="GalleryContentDiv">
+        <div className="GalleryContentNDiv">hello</div>
       </div>
     </div>
   );
