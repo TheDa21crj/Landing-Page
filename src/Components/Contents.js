@@ -7,7 +7,7 @@ export default function Contents() {
       <p className="ContentsHeadPTag">Contents</p>
       <div className="ContentsContentDiv">
         <div>
-          <p>
+          <p className="ContentsWefocusPTag">
             We focus on ergonomics and meeting you where you work. It's only a
             keystroke away.
           </p>
