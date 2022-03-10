@@ -30,5 +30,17 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    background-color: red;
     width: 65%;
 }
+
+.ContentLefthtDiv,
+.ContentRightDiv {
+    background-color: white;
+    width: 48%;
+    color: black;
+    text-align: center;
+}
+
+
+/* 985 */

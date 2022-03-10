@@ -13,8 +13,8 @@ export default function Contents() {
           </p>
         </div>
         <div className="ContentsRowDiv">
-          <div>hello</div>
-          <div>world</div>
+          <div className="ContentLefthtDiv">hello</div>
+          <div className="ContentRightDiv">world</div>
         </div>
       </div>
     </div>
