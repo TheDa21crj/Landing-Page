@@ -24,6 +24,7 @@ export default function Gallery() {
               <img src="" alt="" />
             </div>
           </div>
+          <button>See More</button>
         </div>
       </div>
     </div>
