@@ -15,9 +15,11 @@ export default function Contents() {
         <div className="ContentsRowDiv">
           <div className="ContentLefthtDiv">
             <p className="CardsDivPTag">Work</p>
+            <p className="ContentCardsSubheading">sub</p>
           </div>
           <div className="ContentRightDiv">
             <p className="CardsDivPTag">Design with real data</p>
+            <p className="ContentCardsSubheading">sub</p>
           </div>
         </div>
       </div>
