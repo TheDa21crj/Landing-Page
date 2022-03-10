@@ -26,9 +26,11 @@ export default function Features() {
                 <span>
                   <LocalDiningIcon className="FeatureIcon" />
                 </span>
-                <span>A single source of truth</span>
+                <span className="FeatureHeadSpan">
+                  A single source of truth
+                </span>
               </div>
-              <p>
+              <p className="FeaturePTag">
                 When you add work to your Slate calendar we automatically
                 calculate useful insights
               </p>
@@ -38,9 +40,9 @@ export default function Features() {
                 <span>
                   <TagFacesIcon className="FeatureIcon" />
                 </span>
-                <span>A single source of truth</span>
+                <span className="FeatureHeadSpan">Intuitive interface</span>
               </div>
-              <p>
+              <p className="FeaturePTag">
                 When you add work to your Slate calendar we automatically
                 calculate useful insights
               </p>
@@ -50,9 +52,9 @@ export default function Features() {
                 <span>
                   <AllInclusiveIcon className="FeatureIcon" />
                 </span>
-                <span>A single source of truth</span>
+                <span className="FeatureHeadSpan">Or with rules</span>
               </div>
-              <p>
+              <p className="FeaturePTag">
                 When you add work to your Slate calendar we automatically
                 calculate useful insights
               </p>
