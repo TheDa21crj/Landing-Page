@@ -81,3 +81,8 @@
     color: #5c5c5c;
     max-width: 268px;
 }
+
+.SignUp,
+.TryForFree {
+    background-color: #4452fe;
+}
