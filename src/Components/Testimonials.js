@@ -33,7 +33,7 @@ export default function Testimonials() {
             </div>
             <div className="TestimonialsContentDivRows">
               <div className="TestimonialsUserDiv">
-                <div>
+                <div className="UserIconDiv">
                   <img src={A3} alt="" />
                 </div>
                 <div>
@@ -52,7 +52,7 @@ export default function Testimonials() {
           <div className="TestimonialsCDivP">
             <div className="TestimonialsContentDivRows" id="TestimonialsMargin">
               <div className="TestimonialsUserDiv">
-                <div>
+                <div className="UserIconDiv">
                   <img src={A2} alt="" />
                 </div>
                 <div>
@@ -69,7 +69,7 @@ export default function Testimonials() {
             </div>
             <div className="TestimonialsContentDivRows">
               <div className="TestimonialsUserDiv">
-                <div>
+                <div className="UserIconDiv">
                   <img src={A4} alt="" />
                 </div>
                 <div>
