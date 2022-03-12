@@ -12,29 +12,19 @@ import Cta from "./../Components/Cta";
 import Footer from "./../Components/Footer";
 
 export default function Home() {
-    return ( <
-        div >
-        <
-        Nav / >
-        <
-        NavMobo / >
-        <
-        Header / >
-        <
-        Screens / >
-        <
-        Features / >
-        <
-        Contents / >
-        <
-        Gallery / >
-        <
-        Partners / >
-        <
-        Testimonials / >
-        <
-        Cta / >
-        Home <
-        /div>
-    );
+  return (
+    <div>
+      <Nav />
+      <NavMobo />
+      <Header />
+      <Screens />
+      <Features />
+      <Contents />
+      <Gallery />
+      <Partners />
+      <Testimonials />
+      <Cta />
+      Home{" "}
+    </div>
+  );
 }
