@@ -6,6 +6,8 @@
     padding-bottom: 107px;
 }
 
+.FooterDiv {}
+
 .UlDiv {
     display: flex;
     flex-direction: row;
