@@ -2,6 +2,7 @@ import React from "react";
 import "./Css/Footer.css";
 
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
+import PhoneAndroidOutlinedIcon from "@mui/icons-material/PhoneAndroidOutlined";
 
 export default function Footer() {
   return (
@@ -37,7 +38,10 @@ export default function Footer() {
           </div>
         </div>
         <div>
-          <p>7480 Mockingbird Hill undefined</p>
+          <p>
+            <LocationOnOutlinedIcon />
+            7480 Mockingbird Hill undefined
+          </p>
           <p>(239) 555-0108</p>
         </div>
       </div>
