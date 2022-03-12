@@ -19,16 +19,16 @@ export default function Gallery() {
             keystroke away.
           </p>
           <div>
-            <div>
-              <img src={Card00} alt="" />
-              <img src={Card01} alt="" />
-              <img src={Card02} alt="" />
-              <img src={Card03} alt="" />
+            <div className="CardsRow1">
+              <img src={Card00} alt="" className="CardsImg1" />
+              <img src={Card01} alt="" className="CardsImg1" />
+              <img src={Card02} alt="" className="CardsImg1" />
+              <img src={Card03} alt="" className="CardsImg1" />
             </div>
             <div>
-              <img src={Card10} alt="" />
-              <img src={Card11} alt="" />
-              <img src={Card12} alt="" />
+              <img src={Card10} alt="" className="CardsImg2" />
+              <img src={Card11} alt="" className="CardsImg2" />
+              <img src={Card12} alt="" className="CardsImg2" />
             </div>
           </div>
           <button>See More</button>
