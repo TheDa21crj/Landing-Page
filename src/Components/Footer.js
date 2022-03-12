@@ -18,19 +18,19 @@ export default function Footer() {
           <div className="UlMDiv">
             <ul>
               <li>Resources</li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Home</li>
+              <li>Examples</li>
+              <li>Pricing</li>
+              <li>Updates</li>
             </ul>
           </div>
           <div className="UlMDiv">
             <ul>
               <li>About</li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Home</li>
+              <li>Examples</li>
+              <li>Pricing</li>
+              <li>Updates</li>
             </ul>
           </div>
         </div>
