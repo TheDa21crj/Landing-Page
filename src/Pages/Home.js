@@ -6,6 +6,7 @@ import Screens from "./../Components/Screens";
 import Features from "./../Components/Features";
 import Contents from "./../Components/Contents";
 import Gallery from "./../Components/Gallery";
+import Partners from "./../Components/Partners";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Features />
       <Contents />
       <Gallery />
+      <Partners />
       Home
     </div>
   );
