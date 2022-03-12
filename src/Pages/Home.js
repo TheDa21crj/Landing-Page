@@ -8,7 +8,7 @@ import Contents from "./../Components/Contents";
 import Gallery from "./../Components/Gallery";
 import Partners from "./../Components/Partners";
 import Testimonials from "./../Components/Testimonials";
-import Testimonials from "./../Components/Testimonials";
+import Cta from "./../Components/Cta";
 
 export default function Home() {
   return (
