@@ -39,7 +39,11 @@
 }
 
 .TestimonialsPRowTag {
-    font-family: "Roboto", sans-serif;
+    font-family: GraphikRegular;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
     width: 100%;
 }
 
