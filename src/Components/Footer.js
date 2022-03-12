@@ -4,7 +4,7 @@ import "./Css/Footer.css";
 export default function Footer() {
   return (
     <div className="FooterMDiv">
-      <div>
+      <div className="FooterDiv">
         <div className="UlDiv">
           <div className="UlMDiv">
             <ul>
