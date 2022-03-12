@@ -49,7 +49,11 @@ export default function Footer() {
             <PhoneAndroidOutlinedIcon />
             (239) 555-0108
           </p>
-          <div></div>
+          <div>
+            <TwitterIcon />
+            <FacebookIcon />
+            <LinkedInIcon />
+          </div>
         </div>
       </div>
     </div>
