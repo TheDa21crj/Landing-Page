@@ -15,7 +15,7 @@ export default function Testimonials() {
                 </div>
                 <div>
                   <p>Claire Bell</p>
-                  <p></p>
+                  <p>Designer</p>
                 </div>
               </div>
               <p className="TestimonialsPRowTag">
