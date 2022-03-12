@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <div>
             <ul>
-              <li></li>
+              <li>Fingertipe</li>
               <li></li>
               <li></li>
               <li></li>
