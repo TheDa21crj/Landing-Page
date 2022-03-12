@@ -26,7 +26,7 @@ export default function Footer() {
           </div>
           <div>
             <ul>
-              <li>Resources</li>
+              <li>About</li>
               <li></li>
               <li></li>
               <li></li>
