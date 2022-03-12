@@ -24,6 +24,7 @@ export default function Home() {
       <Partners />
       <Testimonials />
       <Cta />
+      <Footer />
       Home
     </div>
   );
