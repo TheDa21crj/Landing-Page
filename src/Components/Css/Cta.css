@@ -16,5 +16,6 @@
 
 .CtaContentDiv {
     width: 80%;
+    border-radius: 33px;
     background-color: #4452fe;
 }
