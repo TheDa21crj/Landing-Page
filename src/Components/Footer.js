@@ -1,6 +1,8 @@
 import React from "react";
 import "./Css/Footer.css";
 
+import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
+
 export default function Footer() {
   return (
     <div className="FooterMDiv">
