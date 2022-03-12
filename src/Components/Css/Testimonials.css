@@ -28,4 +28,8 @@
     width: 100%;
 }
 
-.TestimonialsUserDiv {}
+.TestimonialsUserDiv {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
