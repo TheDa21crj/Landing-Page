@@ -31,7 +31,7 @@ export default function Gallery() {
               <img src={Card12} alt="" className="CardsImg2" />
             </div>
           </div>
-          <button>See More</button>
+          <button className="GallerySeeMore">See More</button>
         </div>
       </div>
     </div>

@@ -60,3 +60,14 @@
     max-width: 395px;
     height: 285px;
 }
+
+.GallerySeeMore {
+    background-color: transparent;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+    margin-top: 44px;
+    box-shadow: 0px 4px 31px #00000026;
+}
