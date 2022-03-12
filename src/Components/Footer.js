@@ -15,8 +15,24 @@ export default function Footer() {
               <li></li>
             </ul>
           </div>
-          <div></div>
-          <div></div>
+          <div>
+            <ul>
+              <li>Resources</li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+          </div>
+          <div>
+            <ul>
+              <li>Resources</li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+          </div>
         </div>
         <div></div>
       </div>
