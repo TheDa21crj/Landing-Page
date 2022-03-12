@@ -20,7 +20,7 @@
     background-color: #343434;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -31,4 +31,17 @@
     line-height: 62px;
     letter-spacing: 0.2px;
     margin-bottom: 37px;
+    text-align: right;
+}
+
+.CtaLeftDiv {
+    width: 50%;
+}
+
+.CtaRightDiv {
+    width: 40%;
+}
+
+.ctaImgTag {
+    width: 100%;
 }
