@@ -8,6 +8,7 @@ import Contents from "./../Components/Contents";
 import Gallery from "./../Components/Gallery";
 import Partners from "./../Components/Partners";
 import Testimonials from "./../Components/Testimonials";
+import Testimonials from "./../Components/Testimonials";
 
 export default function Home() {
   return (
