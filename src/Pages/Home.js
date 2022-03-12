@@ -10,18 +10,27 @@ import Partners from "./../Components/Partners";
 import Testimonials from "./../Components/Testimonials";
 
 export default function Home() {
-  return (
-    <div>
-      <Nav />
-      <NavMobo />
-      <Header />
-      <Screens />
-      <Features />
-      <Contents />
-      <Gallery />
-      <Partners />
-      <Testimonials />
-      Home
-    </div>
-  );
+    return ( <
+        div >
+        <
+        Nav / >
+        <
+        NavMobo / >
+        <
+        Header / >
+        <
+        Screens / >
+        <
+        Features / >
+        <
+        Contents / >
+        <
+        Gallery / >
+        <
+        Partners / >
+        <
+        Testimonials / >
+        Home <
+        /div>
+    );
 }
