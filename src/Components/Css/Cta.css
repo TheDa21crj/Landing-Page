@@ -8,4 +8,8 @@
     src: url(./../../Graphik/GraphikRegular.otf);
 }
 
-.CtamDiv {}
+.CtamDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
