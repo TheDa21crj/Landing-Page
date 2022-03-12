@@ -11,4 +11,8 @@
 .PartnersmDiv {
     font-family: GraphikRegular;
     text-align: center;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0.2px;
 }
