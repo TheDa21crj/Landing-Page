@@ -5,7 +5,9 @@ export default function Cta() {
   return (
     <div className="CtamDiv">
       <div className="CtaContentDiv">
-        <div></div>
+        <div>
+          <p className="ctaPTag">OpenType features and Variable fonts</p>
+        </div>
         <div></div>
       </div>
     </div>
