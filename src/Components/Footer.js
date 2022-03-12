@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="UlDiv">
           <div className="UlMDiv">
             <ul>
-              <li>Fingertipe</li>
+              <li className="listTitle">Fingertipe</li>
               <li>Home</li>
               <li>Examples</li>
               <li>Pricing</li>
@@ -17,7 +17,7 @@ export default function Footer() {
           </div>
           <div className="UlMDiv">
             <ul>
-              <li>Resources</li>
+              <li className="listTitle">Resources</li>
               <li>Home</li>
               <li>Examples</li>
               <li>Pricing</li>
@@ -26,7 +26,7 @@ export default function Footer() {
           </div>
           <div className="UlMDiv">
             <ul>
-              <li>About</li>
+              <li className="listTitle">About</li>
               <li>Home</li>
               <li>Examples</li>
               <li>Pricing</li>
