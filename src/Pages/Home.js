@@ -9,7 +9,6 @@ import Gallery from "./../Components/Gallery";
 import Partners from "./../Components/Partners";
 import Testimonials from "./../Components/Testimonials";
 import Cta from "./../Components/Cta";
-import Footer from "./../Components/Footer";
 
 export default function Home() {
   return (
