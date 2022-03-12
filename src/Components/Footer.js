@@ -34,7 +34,10 @@ export default function Footer() {
             </ul>
           </div>
         </div>
-        <div></div>
+        <div>
+          <p>7480 Mockingbird Hill undefined</p>
+          <p>(239) 555-0108</p>
+        </div>
       </div>
     </div>
   );
