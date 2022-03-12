@@ -9,10 +9,10 @@ export default function Footer() {
           <div className="UlMDiv">
             <ul>
               <li>Fingertipe</li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Home</li>
+              <li>Examples</li>
+              <li>Pricing</li>
+              <li>Updates</li>
             </ul>
           </div>
           <div className="UlMDiv">
