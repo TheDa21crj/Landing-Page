@@ -56,7 +56,7 @@ export default function Testimonials() {
                   <img src={A2} alt="" />
                 </div>
                 <div>
-                  <p className="userName">Claire Bell</p>
+                  <p className="userName">Francisco Lane</p>
                   <p className="UserProf">Designer</p>
                 </div>
               </div>
