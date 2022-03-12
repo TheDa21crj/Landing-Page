@@ -42,7 +42,10 @@ export default function Footer() {
             <LocationOnOutlinedIcon />
             7480 Mockingbird Hill undefined
           </p>
-          <p>(239) 555-0108</p>
+          <p>
+            <PhoneAndroidOutlinedIcon />
+            (239) 555-0108
+          </p>
         </div>
       </div>
     </div>
