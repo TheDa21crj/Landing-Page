@@ -41,14 +41,18 @@ export default function Footer() {
           </div>
         </div>
         <div>
-          <p>
-            <LocationOnOutlinedIcon />
-            7480 Mockingbird Hill undefined
-          </p>
-          <p>
-            <PhoneAndroidOutlinedIcon />
-            (239) 555-0108
-          </p>
+          <div className="PIconDiv">
+            <p>
+              <LocationOnOutlinedIcon />
+              7480 Mockingbird Hill undefined
+            </p>
+          </div>
+          <div className="PIconDiv">
+            <p>
+              <PhoneAndroidOutlinedIcon />
+              (239) 555-0108
+            </p>
+          </div>
           <div>
             <TwitterIcon />
             <FacebookIcon />
