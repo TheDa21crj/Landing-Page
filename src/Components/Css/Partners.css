@@ -16,3 +16,10 @@
     line-height: 62px;
     letter-spacing: 0.2px;
 }
+
+.PartnersContentDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
