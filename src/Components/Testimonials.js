@@ -15,7 +15,7 @@ export default function Testimonials() {
           <div className="TestimonialsCDivP">
             <div className="TestimonialsContentDivRows" id="TestimonialsMargin">
               <div className="TestimonialsUserDiv">
-                <div>
+                <div className="UserIconDiv">
                   <img src={A1} alt="" />
                 </div>
                 <div>
