@@ -9,6 +9,10 @@
     src: url(./../../Graphik/GraphikRegular.otf);
 }
 
+.TestimonialsMainDiv {
+    margin-bottom: 230px;
+}
+
 .TestimonialsRowCMDiv {
     display: flex;
     flex-direction: row;
@@ -71,4 +75,8 @@
 
 .UserProf {
     letter-spacing: 0.1px;
+}
+
+#TestimonialsmarginTopNegative {
+    margin-top: -23px;
 }

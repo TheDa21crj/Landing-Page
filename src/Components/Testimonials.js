@@ -8,7 +8,7 @@ import A4 from "./../Img/avatar4.png";
 
 export default function Testimonials() {
   return (
-    <div>
+    <div className="TestimonialsMainDiv">
       <p className="PartnersmDiv">Testimonials</p>
       <div>
         <div className="TestimonialsRowCMDiv">
@@ -37,7 +37,7 @@ export default function Testimonials() {
                   <img src={A3} alt="" />
                 </div>
                 <div>
-                  <p className="userName">Claire Bell</p>
+                  <p className="userName">Ralph Fisher</p>
                   <p className="UserProf">Designer</p>
                 </div>
               </div>
@@ -49,7 +49,7 @@ export default function Testimonials() {
               </p>
             </div>
           </div>
-          <div className="TestimonialsCDivP">
+          <div className="TestimonialsCDivP" id="TestimonialsmarginTopNegative">
             <div className="TestimonialsContentDivRows" id="TestimonialsMargin">
               <div className="TestimonialsUserDiv">
                 <div className="UserIconDiv">
@@ -73,7 +73,7 @@ export default function Testimonials() {
                   <img src={A4} alt="" />
                 </div>
                 <div>
-                  <p className="userName">Claire Bell</p>
+                  <p className="userName">Jorge Murphy</p>
                   <p className="UserProf">Designer</p>
                 </div>
               </div>
