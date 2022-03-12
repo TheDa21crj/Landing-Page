@@ -1,7 +1,7 @@
 .TestimonialsRowCMDiv {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     margin-top: 60px;
 }
@@ -9,4 +9,5 @@
 .TestimonialsCDivP {
     display: flex;
     flex-direction: column;
+    background-color: red;
 }

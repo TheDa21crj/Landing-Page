@@ -11,7 +11,7 @@ export default function Testimonials() {
             <div className="TestimonialsContentDivRows">hello 0</div>
             <div className="TestimonialsContentDivRows">world 0</div>
           </div>
-          <div>
+          <div className="TestimonialsCDivP">
             <div className="TestimonialsContentDivRows">hello 1</div>
             <div className="TestimonialsContentDivRows">world 1</div>
           </div>
