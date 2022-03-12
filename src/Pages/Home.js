@@ -22,6 +22,7 @@ export default function Home() {
       <Gallery />
       <Partners />
       <Testimonials />
+      <Cta />
       Home{" "}
     </div>
   );
