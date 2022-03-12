@@ -50,3 +50,19 @@
 .UserIconDiv {
     margin-right: 23px;
 }
+
+.userName,
+.UserProf {
+    font-family: GraphikMedium;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.userName {
+    letter-spacing: 0.2px;
+}
+
+.UserProf {
+    letter-spacing: 0.1px;
+}

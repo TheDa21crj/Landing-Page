@@ -19,8 +19,8 @@ export default function Testimonials() {
                   <img src={A1} alt="" />
                 </div>
                 <div>
-                  <p>Claire Bell</p>
-                  <p>Designer</p>
+                  <p className="userName">Claire Bell</p>
+                  <p className="UserProf">Designer</p>
                 </div>
               </div>
               <p className="TestimonialsPRowTag">
@@ -37,8 +37,8 @@ export default function Testimonials() {
                   <img src={A3} alt="" />
                 </div>
                 <div>
-                  <p>Claire Bell</p>
-                  <p>Designer</p>
+                  <p className="userName">Claire Bell</p>
+                  <p className="UserProf">Designer</p>
                 </div>
               </div>
               <p className="TestimonialsPRowTag">
@@ -56,8 +56,8 @@ export default function Testimonials() {
                   <img src={A2} alt="" />
                 </div>
                 <div>
-                  <p>Claire Bell</p>
-                  <p>Designer</p>
+                  <p className="userName">Claire Bell</p>
+                  <p className="UserProf">Designer</p>
                 </div>
               </div>
               <p className="TestimonialsPRowTag">
@@ -73,8 +73,8 @@ export default function Testimonials() {
                   <img src={A4} alt="" />
                 </div>
                 <div>
-                  <p>Claire Bell</p>
-                  <p>Designer</p>
+                  <p className="userName">Claire Bell</p>
+                  <p className="UserProf">Designer</p>
                 </div>
               </div>
               <p className="TestimonialsPRowTag">
