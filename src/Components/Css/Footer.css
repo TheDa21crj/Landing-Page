@@ -24,12 +24,13 @@
 
 .UlMDiv ul li {
     list-style-type: none;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 30px;
-    letter-spacing: 0.1px;
 }
 
 .listTitle {
     margin-bottom: 40px;
+    font-family: GraphikMedium;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.1px;
 }
