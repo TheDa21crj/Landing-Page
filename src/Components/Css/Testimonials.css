@@ -7,11 +7,21 @@
 }
 
 .TestimonialsCDivP {
+    width: 40%;
     display: flex;
     flex-direction: column;
     background-color: red;
 }
 
 .TestimonialsContentDivRows {
-    padding: 40px;
+    background-color: green;
+}
+
+#TestimonialsMargin {
+    margin-bottom: 20px;
+}
+
+.TestimonialsPRowTag {
+    width: 100%;
+    background-color: blue;
 }
