@@ -25,7 +25,7 @@ export default function Gallery() {
               <img src={Card02} alt="" className="CardsImg1" />
               <img src={Card03} alt="" className="CardsImg1" />
             </div>
-            <div>
+            <div className="CardsRow2">
               <img src={Card10} alt="" className="CardsImg2" />
               <img src={Card11} alt="" className="CardsImg2" />
               <img src={Card12} alt="" className="CardsImg2" />

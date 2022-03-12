@@ -40,13 +40,23 @@
     margin-bottom: 44px;
 }
 
-.CardsRow1 {
+.CardsRow1,
+.CardsRow2 {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
 }
 
+.CardsRow1 {
+    padding: 0px 44px;
+}
+
 .CardsImg1 {
     max-width: 225px;
+}
+
+.CardsImg2 {
+    max-width: 395px;
+    height: 285px;
 }
