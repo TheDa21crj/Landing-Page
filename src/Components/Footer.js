@@ -5,8 +5,8 @@ export default function Footer() {
   return (
     <div className="FooterMDiv">
       <div>
-        <div>
-          <div>
+        <div className="UlDiv">
+          <div className="UlMDiv">
             <ul>
               <li>Fingertipe</li>
               <li></li>
@@ -15,7 +15,7 @@ export default function Footer() {
               <li></li>
             </ul>
           </div>
-          <div>
+          <div className="UlMDiv">
             <ul>
               <li>Resources</li>
               <li></li>
@@ -24,7 +24,7 @@ export default function Footer() {
               <li></li>
             </ul>
           </div>
-          <div>
+          <div className="UlMDiv">
             <ul>
               <li>About</li>
               <li></li>

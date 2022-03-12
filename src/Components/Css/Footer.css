@@ -5,3 +5,15 @@
     align-items: center;
     padding-bottom: 107px;
 }
+
+.UlDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: red;
+}
+
+.UlMDiv ul li {
+    list-style-type: none;
+}
