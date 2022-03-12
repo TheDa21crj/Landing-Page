@@ -8,6 +8,7 @@ export default function Cta() {
       <div className="CtaContentDiv">
         <div className="CtaLeftDiv">
           <p className="ctaPTag">OpenType features and Variable fonts</p>
+          <div className="TryForFree">Try For Free</div>
         </div>
         <div className="CtaRightDiv">
           <img src={img} alt="" className="ctaImgTag" />
