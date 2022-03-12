@@ -7,13 +7,13 @@ export default function Testimonials() {
       <p className="PartnersmDiv">Testimonials</p>
       <div>
         <div className="TestimonialsRowCMDiv">
-          <div>
-            <div>hello 0</div>
-            <div>world 0</div>
+          <div className="TestimonialsCDivP">
+            <div className="TestimonialsContentDivRows">hello 0</div>
+            <div className="TestimonialsContentDivRows">world 0</div>
           </div>
           <div>
-            <div>hello 1</div>
-            <div>world 1</div>
+            <div className="TestimonialsContentDivRows">hello 1</div>
+            <div className="TestimonialsContentDivRows">world 1</div>
           </div>
         </div>
       </div>
