@@ -4,7 +4,7 @@ import "./Css/Cta.css";
 export default function Cta() {
   return (
     <div className="CtamDiv">
-      <div>hello</div>
+      <div className="CtaContentDiv">hello</div>
     </div>
   );
 }
