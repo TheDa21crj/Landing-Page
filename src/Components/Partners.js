@@ -10,23 +10,21 @@ import Ibm from "./../Img/ibm.png";
 
 export default function Partners() {
   return (
-    <div>
+    <div className="PartnersMainDiv">
       <p className="PartnersmDiv">Partners</p>
       <div className="PartnersContentDiv">
         <p className="FeaturesWeFocus">
           We focus on ergonomics and meeting you where you work. It's only a
           keystroke away.
         </p>
-        <div>
-          <div>
-            <img src="" alt="" />
-            <img src="" alt="" />
-            <img src="" alt="" />
-            <img src="" alt="" />
-            <img src="" alt="" />
-            <img src="" alt="" />
-          </div>
-        </div>
+      </div>
+      <div className="FeaturesImgLogoDiv">
+        <img src={imgAppleStore} alt="" />
+        <img src={Apiary} alt="" />
+        <img src={AndroidIcon} alt="" />
+        <img src={BaseCamp} alt="" />
+        <img src={Airbnb} alt="" />
+        <img src={Ibm} alt="" />
       </div>
     </div>
   );

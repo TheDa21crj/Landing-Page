@@ -8,6 +8,13 @@
     src: url(./../../Graphik/GraphikRegular.otf);
 }
 
+.PartnersMainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .PartnersmDiv {
     font-family: GraphikRegular;
     text-align: center;
@@ -34,4 +41,11 @@
     max-width: 591px;
     text-align: center;
     margin-bottom: 60px;
+}
+
+.FeaturesImgLogoDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
 }
