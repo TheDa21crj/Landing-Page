@@ -9,7 +9,15 @@ export default function Testimonials() {
         <div className="TestimonialsRowCMDiv">
           <div className="TestimonialsCDivP">
             <div className="TestimonialsContentDivRows" id="TestimonialsMargin">
-              <div></div>
+              <div>
+                <div>
+                  <img src="" alt="" />
+                </div>
+                <div>
+                  <p>Claire Bell</p>
+                  <p></p>
+                </div>
+              </div>
               <p className="TestimonialsPRowTag">
                 Slate helps you see how many more days you need to work to reach
                 your financial goal for the month and year. Slate helps you see
