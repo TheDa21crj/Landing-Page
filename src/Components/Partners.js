@@ -1,15 +1,32 @@
 import React from "react";
 import "./Css/Partners.css";
 
+import imgAppleStore from "./../Img/apple-app-store.png";
+import Apiary from "./../Img/logos_apiary.png";
+import AndroidIcon from "./../Img/android-icon.png";
+import BaseCamp from "./../Img/basecamp.png";
+import Airbnb from "./../Img/airbnb.png";
+import Ibm from "./../Img/ibm.png";
+
 export default function Partners() {
   return (
     <div>
       <p className="PartnersmDiv">Partners</p>
       <div className="PartnersContentDiv">
-        <p>
+        <p className="FeaturesWeFocus">
           We focus on ergonomics and meeting you where you work. It's only a
           keystroke away.
         </p>
+        <div>
+          <div>
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+          </div>
+        </div>
       </div>
     </div>
   );
