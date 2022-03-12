@@ -26,6 +26,7 @@ export default function Partners() {
         <img src={Airbnb} alt="" />
         <img src={Ibm} alt="" />
       </div>
+      <button className="GallerySeeMore">All Partners</button>
     </div>
   );
 }
