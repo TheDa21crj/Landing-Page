@@ -3,7 +3,7 @@ import "./Css/Footer.css";
 
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
 import PhoneAndroidOutlinedIcon from "@mui/icons-material/PhoneAndroidOutlined";
-
+import TwitterIcon from "@mui/icons-material/Twitter";
 export default function Footer() {
   return (
     <div className="FooterMDiv">
@@ -46,6 +46,7 @@ export default function Footer() {
             <PhoneAndroidOutlinedIcon />
             (239) 555-0108
           </p>
+          <div></div>
         </div>
       </div>
     </div>
