@@ -1,3 +1,14 @@
+@font-face {
+    font-family: GraphikMedium;
+    src: url(./../../Graphik/GraphikMedium.otf);
+}
+
+@font-face {
+    font-family: GraphikRegular;
+    src: url(./../../Graphik/GraphikRegular.otf);
+}
+
 .PartnersmDiv {
+    font-family: GraphikRegular;
     text-align: center;
 }
