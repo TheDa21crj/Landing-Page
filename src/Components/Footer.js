@@ -49,10 +49,10 @@ export default function Footer() {
             <PhoneAndroidOutlinedIcon />
             <p>(239) 555-0108</p>
           </div>
-          <div>
-            <TwitterIcon />
-            <FacebookIcon />
-            <LinkedInIcon />
+          <div className="SocialIconsDiv">
+            <TwitterIcon fontSize="large" />
+            <FacebookIcon fontSize="large" />
+            <LinkedInIcon fontSize="large" />
           </div>
         </div>
       </div>
