@@ -76,6 +76,14 @@
     border-width: 1px;
 }
 
+@media only screen and (max-width: 550px) {
+    .HeaderH1Div h1 {
+        font-family: GraphikRegular;
+        font-size: 52px;
+        line-height: 62px;
+    }
+}
+
 @media only screen and (max-width: 500px) {
     .BtnDiv {
         width: 100%;
