@@ -63,3 +63,8 @@
     justify-content: space-evenly;
     padding: 20px 0px;
 }
+
+.ContactUsDiv {
+    width: auto;
+    background-color: #4452fe;
+}

@@ -40,7 +40,7 @@ export default function Footer() {
             </ul>
           </div>
         </div>
-        <div>
+        <div className="ContactUsDiv">
           <div className="PIconDiv">
             <LocationOnOutlinedIcon fontSize="large" />
             <p>7480 Mockingbird Hill undefined</p>
