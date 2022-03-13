@@ -95,5 +95,9 @@
     .TryForFree {
         margin-bottom: 21px;
     }
-    .HeaderPDiv p {}
+    .HeaderPDiv p {
+        width: 90%;
+        margin-left: 5%;
+        background-color: #4452fe;
+    }
 }
