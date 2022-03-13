@@ -41,6 +41,10 @@
 .HeaderPDiv p {
     line-height: 30px;
     font-family: GraphikRegular;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    font-weight: 400;
 }
 
 .BtnDiv {
@@ -91,4 +95,10 @@
     .TryForFree {
         margin-bottom: 21px;
     }
+    /* .HeaderPDiv p {
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.2px;
+        font-weight: 400;
+    } */
 }
