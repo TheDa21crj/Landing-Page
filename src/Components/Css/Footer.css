@@ -50,6 +50,7 @@
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+    background-color: red;
 }
 
 .SocialIconsDiv {
