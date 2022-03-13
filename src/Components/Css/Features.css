@@ -40,6 +40,10 @@
 .FeaturesPTagDiv p {
     line-height: 30px;
     font-family: GraphikRegular;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    font-weight: 400;
 }
 
 .FeatureDetailsDiv {
