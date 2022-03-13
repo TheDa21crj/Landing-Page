@@ -42,11 +42,11 @@ export default function Footer() {
         </div>
         <div>
           <div className="PIconDiv">
-            <LocationOnOutlinedIcon />
+            <LocationOnOutlinedIcon fontSize="large" />
             <p>7480 Mockingbird Hill undefined</p>
           </div>
           <div className="PIconDiv">
-            <PhoneAndroidOutlinedIcon />
+            <PhoneAndroidOutlinedIcon fontSize="large" />
             <p>(239) 555-0108</p>
           </div>
           <div className="SocialIconsDiv">
