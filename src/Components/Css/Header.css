@@ -82,9 +82,6 @@
         font-size: 52px;
         line-height: 62px;
     }
-}
-
-@media only screen and (max-width: 500px) {
     .BtnDiv {
         width: 100%;
         flex-direction: column;
