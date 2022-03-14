@@ -55,4 +55,17 @@
         border-radius: 0px;
         flex-direction: column;
     }
+    .CtaLeftDiv {
+        width: 100%;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* margin: 0px; */
+    }
+    .ctaPTag {
+        width: 80%;
+        text-align: center;
+    }
 }
