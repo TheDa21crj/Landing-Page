@@ -91,9 +91,19 @@
     width: 70%;
 }
 
-@media only screen and (max-width: 550px) {}
+@media only screen and (max-width: 850px) {
+    .TestimonialsCDivP {
+        width: 60%;
+        margin-right: 5%;
+    }
+}
 
-@media only screen and (max-width: 550px) {
+
+/* @media only screen and (max-width: 800px) {
+
+} */
+
+@media only screen and (max-width: 800px) {
     .TestimonialsRowCMDiv {
         flex-direction: column;
     }
@@ -104,6 +114,7 @@
         margin-top: 23px;
     }
     .TestimonialsCDivP {
+        margin-right: 0%;
         width: 100%;
     }
 }
