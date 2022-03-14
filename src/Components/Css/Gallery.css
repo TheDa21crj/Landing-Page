@@ -85,7 +85,6 @@
 @media only screen and (max-width: 550px) {
     .CardsRow1 {
         flex-direction: column;
-        /* background-color: #ffffff; */
         padding: 0px;
     }
     .CardsImg1 {
