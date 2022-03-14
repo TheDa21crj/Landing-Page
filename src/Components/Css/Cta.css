@@ -67,4 +67,10 @@
         width: 80%;
         text-align: center;
     }
+    .CtaRightDiv {
+        width: 90%;
+    }
+    .ctaImgTag {
+        border-radius: 0px;
+    }
 }
