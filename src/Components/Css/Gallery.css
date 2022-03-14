@@ -82,4 +82,11 @@
     line-height: 25px;
 }
 
-@media only screen and (max-width: 550px) {}
+@media only screen and (max-width: 550px) {
+    .CardsRow1 {
+        flex-direction: column;
+    }
+    .CardsRow2 {
+        display: none;
+    }
+}
