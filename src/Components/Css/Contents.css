@@ -129,5 +129,15 @@
 }
 
 @media only screen and (max-width: 550px) {
-    .ContentsHeadPTag {}
+    .ContentsWefocusPTag {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .ContentsRowDiv {
+        flex-direction: column;
+        background-color: #4452fe;
+    }
+    .ContentLefthtDiv {
+        width: 100%;
+    }
 }
