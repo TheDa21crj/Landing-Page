@@ -81,3 +81,5 @@
     letter-spacing: 0.2px;
     line-height: 25px;
 }
+
+@media only screen and (max-width: 550px) {}
