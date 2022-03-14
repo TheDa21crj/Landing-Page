@@ -82,16 +82,21 @@
     line-height: 25px;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 1000px) {
+    .CardsRow1 {
+        padding: 0px;
+    }
+    .CardsRow2 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 880px) {
     .CardsRow1 {
         flex-direction: column;
-        padding: 0px;
     }
     .CardsImg1 {
         min-width: 300px;
         width: 100%;
-    }
-    .CardsRow2 {
-        display: none;
     }
 }
