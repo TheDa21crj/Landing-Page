@@ -47,4 +47,9 @@
     margin-bottom: 50px;
 }
 
-@media only screen and (max-width: 550px) {}
+@media only screen and (max-width: 550px) {
+    .FeaturesWeFocus {
+        width: 70%;
+        margin-left: 15%;
+    }
+}
