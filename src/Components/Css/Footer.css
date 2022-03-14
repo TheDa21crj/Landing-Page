@@ -68,7 +68,22 @@
     width: 35%;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 1000px) {
+    .FooterDiv {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .FooterDiv {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .FooterDiv {
+        width: 65%;
+    }
     .UlDiv,
     .FooterDiv {
         flex-direction: column;
