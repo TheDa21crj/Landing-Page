@@ -18,13 +18,22 @@ export default function Partners() {
           keystroke away.
         </p>
       </div>
+
       <div className="FeaturesImgLogoDiv">
-        <div className="FeaturesImgRespo">
+        <img src={imgAppleStore} alt="" />
+        <img src={Apiary} alt="" />
+        <img src={AndroidIcon} alt="" />
+        <img src={BaseCamp} alt="" />
+        <img src={Airbnb} alt="" />
+        <img src={Ibm} alt="" />
+      </div>
+      <div className="FeaturesImgLogoDivRespo">
+        <div className="FeaturesImgLogoREspo0">
           <img src={imgAppleStore} alt="" />
           <img src={Apiary} alt="" />
           <img src={AndroidIcon} alt="" />
         </div>
-        <div className="FeaturesImgRespo">
+        <div className="FeaturesImgLogoREspo1">
           <img src={BaseCamp} alt="" />
           <img src={Airbnb} alt="" />
           <img src={Ibm} alt="" />
