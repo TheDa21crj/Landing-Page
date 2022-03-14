@@ -63,7 +63,9 @@
     }
 }
 
-@media only screen and (max-width: 900px) {}
+@media only screen and (max-width: 900px) {
+    .CtaLeftDiv {}
+}
 
 @media only screen and (max-width: 550px) {
     .CtaContentDiv {
