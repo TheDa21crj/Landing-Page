@@ -72,8 +72,16 @@
     .UlDiv,
     .FooterDiv {
         flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
     }
     .UlDiv {
         margin-bottom: 75px;
+    }
+    .ContactUsDiv {
+        width: 100%;
+    }
+    .listTitle {
+        margin-top: 75px;
     }
 }
