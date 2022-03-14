@@ -49,6 +49,12 @@
     border-radius: 0px 0px 33px 0px;
 }
 
+@media only screen and (max-width: 1000px) {
+    .CtaContentDiv {
+        width: 90%;
+    }
+}
+
 @media only screen and (max-width: 550px) {
     .CtaContentDiv {
         width: 100%;
