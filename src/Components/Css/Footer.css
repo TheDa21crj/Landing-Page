@@ -68,4 +68,12 @@
     width: 35%;
 }
 
-@media only screen and (max-width: 550px) {}
+@media only screen and (max-width: 550px) {
+    .UlDiv,
+    .FooterDiv {
+        flex-direction: column;
+    }
+    .UlDiv {
+        margin-bottom: 75px;
+    }
+}
