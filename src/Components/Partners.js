@@ -19,12 +19,16 @@ export default function Partners() {
         </p>
       </div>
       <div className="FeaturesImgLogoDiv">
-        <img src={imgAppleStore} alt="" />
-        <img src={Apiary} alt="" />
-        <img src={AndroidIcon} alt="" />
-        <img src={BaseCamp} alt="" />
-        <img src={Airbnb} alt="" />
-        <img src={Ibm} alt="" />
+        <div className="FeaturesImgRespo">
+          <img src={imgAppleStore} alt="" />
+          <img src={Apiary} alt="" />
+          <img src={AndroidIcon} alt="" />
+        </div>
+        <div className="FeaturesImgRespo">
+          <img src={BaseCamp} alt="" />
+          <img src={Airbnb} alt="" />
+          <img src={Ibm} alt="" />
+        </div>
       </div>
       <button className="GallerySeeMore">All Partners</button>
     </div>
