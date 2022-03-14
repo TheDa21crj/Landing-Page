@@ -90,3 +90,18 @@
 .TestimonialsDiv {
     width: 70%;
 }
+
+@media only screen and (max-width: 550px) {
+    .TestimonialsRowCMDiv {
+        flex-direction: column;
+    }
+    .TestimonialsContentDivRows {
+        margin-bottom: 23px;
+    }
+    #TestimonialsMargin {
+        margin-top: 23px;
+    }
+    .TestimonialsCDivP {
+        width: 100%;
+    }
+}
