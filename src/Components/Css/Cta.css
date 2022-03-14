@@ -61,16 +61,25 @@
         border-radius: 0px;
         flex-direction: row;
     }
+    .ctaImgTag {
+        border-radius: 0px;
+    }
 }
 
 @media only screen and (max-width: 900px) {
-    .CtaLeftDiv {}
+    .CtaLeftDiv {
+        padding-left: 50px;
+    }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 750px) {
+    .CtaLeftDiv {
+        padding-left: 30px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
     .CtaContentDiv {
-        width: 100%;
-        border-radius: 0px;
         flex-direction: column;
     }
     .CtaLeftDiv {
@@ -87,8 +96,5 @@
     }
     .CtaRightDiv {
         width: 90%;
-    }
-    .ctaImgTag {
-        border-radius: 0px;
     }
 }
